@@ -190,27 +190,27 @@ This document outlines a robust, end-to-end geospatial framework for assessing h
 
 1. **Accessibility Analysis of Primary Healthcare Services in Mysore District Using Geospatial Techniques**  
    *Techniques: Geo-referencing, digitization, GPS data collection, Euclidean buffers, Thiessen polygons, nearest neighbor analysis.*  
-   [Link to paper](https://doi.org/10.32628/IJSRST218316)  
+   [Link to paper](https://www.researchgate.net/publication/351725407_Accessibility_Analysis_of_Primary_Healthcare_Services_in_Mysore_District_Using_Geospatial_Techniques)  
    (Reference: :contentReference[oaicite:0]{index=0})
 
 2. **Spatial Accessibility of Primary Care: Concepts, Methods and Challenges**  
    *Techniques: Provider-to-population ratios, distance-based measures, gravity models, conceptual framework of potential vs. realized access.*  
-   [Link to paper](http://www.ij-healthgeographics.com/content/3/1/3)  
+   [Link to paper]([http://www.ij-healthgeographics.com/content/3/1/3](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-3-3))  
    (Reference: :contentReference[oaicite:1]{index=1})
 
 3. **Assessing Population-level Accessibility to Medical College Hospitals in India: A Geospatial Modeling Study**  
    *Techniques: Friction surface rasters, Dijkstra’s algorithm for travel time, and Access Population Coverage (APC).*  
-   [Link to paper](https://doi.org/10.1101/2024.08.11.24311839)  
+   [Link to paper](https://www.medrxiv.org/content/10.1101/2024.08.11.24311839v1.full-text)  
    (Reference: :contentReference[oaicite:2]{index=2})
 
 4. **Mapping Accessibility to Oral Health Care in Coastal India – A Geospatial Approach Using GIS**  
    *Techniques: Dentist-to-population ratios, GIS mapping, urban–rural comparison, and socio-economic correlation analysis.*  
-   [Link to paper](https://doi.org/10.12688/f1000research.75708.2)  
+   [Link to paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9363979/)  
    (Reference: :contentReference[oaicite:3]{index=3})
 
 5. **Enhancing Health Care Accessibility and Equity Through a Geoprocessing Toolbox for Spatial Accessibility Analysis**  
    *Techniques: Development of a geoprocessing toolbox using Python for ArcGIS Pro, implementation of 2SFCA and E2SFCA methods with travel time catchments.*  
-   [Link to paper](https://doi.org/10.2196/51727)  
+   [Link to paper]([https://doi.org/10.2196/51727](https://arxiv.org/abs/2403.05575))  
    (Reference: :contentReference[oaicite:4]{index=4})
 
 
